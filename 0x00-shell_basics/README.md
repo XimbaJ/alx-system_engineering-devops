@@ -1,2 +1,1 @@
-prints the absolute path name of the current working directory
-prints list of the current directory
+prints  user’s home directory.
